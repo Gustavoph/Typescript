@@ -9,6 +9,6 @@ const objectA: {
     keyB: 'Value B'
 }
 
-// objectA.keyA = 'This value A'
+/* objectA.keyA = 'This value A' */
 objectA.keyD = 'This value D'
 console.log(objectA);
